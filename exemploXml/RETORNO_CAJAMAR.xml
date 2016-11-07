@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSE>
+  <Nfse>
+    <IdentificacaoNfse>
+      <Numero>242</Numero>
+      <CodigoVerificacao>FPVJHEALOS</CodigoVerificacao>
+    </IdentificacaoNfse>
+    <DataEmissao>03/10/2016 08:34:05</DataEmissao>
+    <Regime>6</Regime>
+    <Competencia>10/2016</Competencia>
+    <Servico>
+      <Valores>
+        <ValorServicos>60,00</ValorServicos>
+        <IssRetido>1,20</IssRetido>
+        <ValorIss>1,20</ValorIss>
+        <BaseCalculo>60,00</BaseCalculo>
+        <Aliquota>2,00</Aliquota>
+      </Valores>
+      <ItemListaServico>403</ItemListaServico>
+      <CodigoTributacaoMunicipio>N</CodigoTributacaoMunicipio>
+      <Discriminacao>PACIENTE: MARCELO IANOFF DAS DORES BARATA\nATENDIMENTO: 2307762\nCONSULTA: R : 60,00   SESSENTA REAIS  \nIMPOSTOS INCIDENTES LEI 12 741/2012 14 653%</Discriminacao>
+      <MunicipioPrestacaoServico>CAJAMAR</MunicipioPrestacaoServico>
+    </Servico>
+    <PrestadorServico>
+      <IdentificacaoPrestador>
+        <Cnpj>59.042.622/0004-78</Cnpj>
+        <InscricaoMunicipal>13081</InscricaoMunicipal>
+      </IdentificacaoPrestador>
+      <RazaoSocial>HOSPITALIS NUCLEO HOSPITALAR DE BARUERI LTDA</RazaoSocial>
+      <Endereco>
+        <Rua>AVENIDA: TENENTE MARQUES, 3825</Rua>
+        <Numero></Numero>
+        <Bairro>IPES  POLVILHO </Bairro>
+        <Cidade>CAJAMAR</Cidade>
+        <Estado>SP</Estado>
+        <Cep>07 791-600</Cep>
+      </Endereco>
+      <Contato>
+        <Telefone> 11  3883-3322</Telefone>
+        <Email>suzana@hospitalis.com.br</Email>
+      </Contato>
+    </PrestadorServico>
+    <TomadorServico>
+      <IdentificacaoTomador>
+        <Cnpj>0092663354791</Cnpj>
+      </IdentificacaoTomador>
+      <RazaoSocial>MARCELO IANOFF DAS DORES BARATA</RazaoSocial>
+      <Endereco>
+        <Rua>RUA DOS CANARIOS, 37</Rua>
+        <Numero></Numero>
+        <Bairro>POLVILHO</Bairro>
+        <Cidade>CAJAMAR</Cidade>
+        <Estado>SP</Estado>
+        <Cep>07 760-000</Cep>
+      </Endereco>
+    </TomadorServico>
+    <OrgaoGerador>
+      <CodigoMunicipio>Prefeitura do Municipio de Cajamar</CodigoMunicipio>
+      <Uf>SP</Uf>
+    </OrgaoGerador>
+    <OutrosImpostos>
+      <Pis></Pis>
+      <Cofins></Cofins>
+      <Csll></Csll>
+      <Irff></Irff>
+      <Inss></Inss>
+    </OutrosImpostos>
+  </Nfse>
+</NFSE>
